@@ -1,7 +1,6 @@
 package com.heypop.projectboard.repository;
 
 import com.heypop.projectboard.domain.ArticleComment;
-import com.heypop.projectboard.domain.QArticle;
 import com.heypop.projectboard.domain.QArticleComment;
 import com.querydsl.core.types.dsl.DateTimeExpression;
 import com.querydsl.core.types.dsl.StringExpression;
