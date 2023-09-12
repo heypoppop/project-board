@@ -51,6 +51,9 @@ dependencies {
 
     // 타임리프
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+
+    // configuration-processor
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
 }
 
 
