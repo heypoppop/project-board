@@ -8,6 +8,9 @@
 ### Querydsl
 /src/main/generated
 
+#JPA
+.jpb/
+
 
 # User-specific stuff
 .idea/**/workspace.xml
